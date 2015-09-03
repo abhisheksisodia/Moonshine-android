@@ -1,4 +1,3 @@
-Moonshine-android
-=================
+# Moonshine - Weather app for Android
 
-Moonshine Weather App
+Moonshine is a simple weather app that gives weather forecast for your location. Below are few screenshots. 
